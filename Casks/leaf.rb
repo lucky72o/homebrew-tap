@@ -1,6 +1,6 @@
 cask "leaf" do
-  version "0.1.0"
-  sha256 "309a671c70663f24416c44e305240b10c57397f3dbd1d7e1ef554ee70d0c250f"
+  version "0.1.1"
+  sha256 "a0d1845acdd2d004672f17f08f61e75b8f7cf9757569ca1f30b22c903b2bc0cb"
 
   url "https://github.com/lucky72o/homebrew-tap/releases/download/leaf-#{version}/Leaf-#{version}.zip"
   name "Leaf"
